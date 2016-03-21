@@ -6,6 +6,10 @@
     "Calvin Mann <calvinmann+bower@gmail.com>"
   ],
   "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/major-mann/responsive-classes.git"
+  },
   "keywords": [
     "responsive",
     "attributes"

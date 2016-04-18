@@ -55,7 +55,7 @@
                 }
                 max = sizes[code].max;
                 if (typeof sizes[code].max !== 'number') {
-                    max = Number.Infinity;
+                    max = Number.POSITIVE_INFINITY;
                 }
 
                 if (width >= min && width <= max) {

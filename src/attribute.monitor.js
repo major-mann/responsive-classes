@@ -505,7 +505,7 @@
     */
     function className(name, value) {
         if (value) {
-            return name + '-' + value;
+            return name + '-' + String(value).replace(/ /g, '-');
         } else {
             return name;
         }

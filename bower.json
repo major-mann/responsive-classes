@@ -1,5 +1,6 @@
 {
   "name": "responsive-classes",
+  "version": "1.0.1",
   "description": "A library that allows classes to be defined at the configurable window size breakpoints. This allows attributes to be added to elements, which define classes to add / remove for specific viewport sizes.",
   "main": "build/responsive.classes.js",
   "authors": [
